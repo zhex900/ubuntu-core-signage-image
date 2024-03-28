@@ -1,0 +1,60 @@
+type: model
+authority-id: JZA65Eb6C3J6AyFTyAQdmmlCZfhSbROp
+series: 16
+brand-id: JZA65Eb6C3J6AyFTyAQdmmlCZfhSbROp
+model: ubuntu-core-22-arm64
+architecture: arm64
+base: core22
+grade: dangerous
+snaps:
+  -
+    default-channel: 22/stable
+    id: UqFziVZDHLSyO3TqSWgNBoAdHbLI4dAH
+    name: pc
+    type: gadget
+  -
+    default-channel: 22/stable
+    id: pYVQrBcKmBa0mZ4CCN7ExT6jH8rY1hza
+    name: pc-kernel
+    type: kernel
+  -
+    default-channel: latest/stable
+    id: amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+    name: core22
+    type: base
+  -
+    default-channel: latest/stable
+    id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+    name: snapd
+    type: snapd
+  -
+    default-channel: latest/stable
+    id: UijXdFgvIKp9ZZ6P4ijPAJHWZLtSKgWm
+    name: mesa-core22
+    type: app
+  -
+    default-channel: 22/stable
+    id: BPZbvWzvoMTrpec4goCXlckLe2IhfthK
+    name: ubuntu-frame
+    type: app
+  -
+    default-channel: 22/stable
+    id: RmBXKl6HO6YOC2DE4G2q1JzWImC04EUy
+    name: network-manager
+    type: app
+  -
+    name: pam-app
+    type: app
+timestamp: 2024-04-04T10:40:41+00:00
+sign-key-sha3-384: Kgq53FfP5SKKBdv4TjgLV0R8FDmZr_DDq5ogvJvcY7lDhyA5NoQOJa9ni3zzrx-P
+
+AcLBcwQAAQoAHRYhBOifEiHGVWJC0+NTdlmxM/Jl6L9WBQJmBSl8AAoJEFmxM/Jl6L9W8BMQAIin
+WikedqIlbOG4lyijHCzEnO1hJvZm1JbdYRYJujt1JpvwaaEjAoKxM14iK+UVUGZAvYNqCdiSC6H4
+YiiUhtFyoykUtyTHfOcm+q8AHmph4KrDMxCIvC91W0iU4Nz0jPmPH/WnVP/MCXCksJCaLMBKviHe
+GWAEV11G+0rr90EiKhBogEVUDxe9ezAnSPtwzr5TfgEglt7rO9hGa0fg7x7OT8Iwd8BTO3yX78HP
+L7umenImsEAaBzdIjLCVAvqO1EW4oZTR50Nd4oALxiTlG3XfdV0qsLzoDH5pjn60egIVcX6hYTIo
+RdKkrnjP2xPtZMBO4jSeyXAmNI0XZZx9t3T0crbA/+gOTkNZw3NZ/2ZpPX/vVGKyYAWY58WqsB5r
+RVfUPNr7MqjxtOl6pM0W2vRwFPh19tRA/JWQeSn83PMlLmJ+Lx9YagylV5lPuNhQsKPNeCXHq/Vh
+qS+1GwIOYBx/xkI3X/vmAtancalyN8f+F6dHs9mTFvDQjp7K0uCSbqbz/n7XWT6RFGfBySSJa8wd
+ev4Oa4yJyQvXQ1JWcsp3c45tv98aQq4rhA7qYkdvKVEpMcrQxPVh7nW/ODJMV1lnkkhrvh5RUjO9
+tjSEopqe1xAhMvJGQAUIDeWRwDbk6No7TxmcLfUJc5OAih2s5UPFlWM6zaXHy3j6DJFa9kPC

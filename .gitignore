@@ -1,0 +1,8 @@
+parts/
+prime/
+stage/
+pc_*.snap
+./gadget.yaml
+gadget-snap/gadget.yaml
+pc.img
+seed.manifest
